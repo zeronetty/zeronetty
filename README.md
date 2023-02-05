@@ -1,16 +1,24 @@
-### Hi there 👋
+# Alexander Stormcloud
 
-<!--
-**zeronetty/zeronetty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛍️ E-commerce software engineer 🌐 | Crow heritage 🏔️ | 🍲 Foodie & 📸 Photography lover
 
-Here are some ideas to get you started:
+> Don't be afraid to fail. Be afraid not to try.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Interests
+
+- User eXperience
+- Blockchain
+- Machine Learning
+
+
+## Status
+
+<a href="#stats" align="center">
+    <img align="center" alt="zeronetty's Github Stats" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=zeronetty&count_private=true&show_icons=true&include_all_commits=true&theme=gotham" />
+</a>
+<br />
+
+<a href="#languages" align="center">
+    <img align="center" alt="zeronetty's Top Language" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=zeronetty&langs_count=10&layout=compact&theme=gotham" />
+</a>
+<br />
